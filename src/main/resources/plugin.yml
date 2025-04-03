@@ -1,0 +1,7 @@
+name: HealthRestorePlugin
+version: '1.0'
+main: com.example.healthrestore.HealthRestorePlugin
+api-version: '1.21'
+load: STARTUP
+authors: [ CacaoPowder ]
+description: 랜덤 아이템 드롭
